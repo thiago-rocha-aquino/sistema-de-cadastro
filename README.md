@@ -50,10 +50,10 @@ src/
 ## Funcionalidades
 
 ### CRUD Completo
-- ✅ **Create** - Cadastrar novos usuários
-- ✅ **Read** - Listar todos os usuários e buscar por ID
-- ✅ **Update** - Atualizar dados de usuários existentes
-- ✅ **Delete** - Remover usuários do sistema
+-  **Create** - Cadastrar novos usuários
+-  **Read** - Listar todos os usuários e buscar por ID
+-  **Update** - Atualizar dados de usuários existentes
+-  **Delete** - Remover usuários do sistema
 
 ### Validações
 - Validação de email (formato válido)
