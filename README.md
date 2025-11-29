@@ -230,14 +230,14 @@ npm test -- --coverage
 ## Boas Práticas Implementadas
 
 ### Backend
-- ✅ Arquitetura em camadas (Clean Architecture)
-- ✅ Validação de dados com Zod
-- ✅ Tratamento de erros centralizado
-- ✅ Tipagem forte com TypeScript
-- ✅ Testes unitários
-- ✅ Padrão Repository
-- ✅ Injeção de dependências
-- ✅ Código modular e reutilizável
+-  Arquitetura em camadas (Clean Architecture)
+-  Validação de dados com Zod
+-  Tratamento de erros centralizado
+-  Tipagem forte com TypeScript
+-  Testes unitários
+-  Padrão Repository
+-  Injeção de dependências
+-  Código modular e reutilizável
 
 ### Frontend
 - ✅ Componentização
