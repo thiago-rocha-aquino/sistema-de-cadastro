@@ -227,46 +227,4 @@ npm test -- --coverage
 | created_at  | TEXT | Data de criação (ISO)        |
 | updated_at  | TEXT | Data de atualização (ISO)    |
 
-## Boas Práticas Implementadas
 
-### Backend
--  Arquitetura em camadas (Clean Architecture)
--  Validação de dados com Zod
--  Tratamento de erros centralizado
--  Tipagem forte com TypeScript
--  Testes unitários
--  Padrão Repository
--  Injeção de dependências
--  Código modular e reutilizável
-
-### Frontend
-- ✅ Componentização
-- ✅ Hooks personalizados
-- ✅ Gerenciamento de estado local
-- ✅ Formatação automática de inputs
-- ✅ Feedback visual para o usuário
-- ✅ Design responsivo
-- ✅ Tratamento de erros
-
-## Melhorias Futuras
-
-- [ ] Autenticação e autorização (JWT)
-- [ ] Paginação de resultados
-- [ ] Busca e filtros
-- [ ] Upload de foto de perfil
-- [ ] Logs de auditoria
-- [ ] Cache com Redis
-- [ ] Documentação Swagger/OpenAPI
-- [ ] CI/CD com GitHub Actions
-- [ ] Docker e Docker Compose
-- [ ] Deploy em produção
-
-## Autor
-
-Desenvolvido como projeto de portfólio demonstrando conhecimentos em:
-- Arquitetura de software
-- TypeScript
-- Node.js & React
-- Padrões de projeto
-- Testes automatizados
-- Boas práticas de código
